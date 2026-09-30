@@ -1,6 +1,7 @@
 # Hugo Sequier
 
-AI Agent Engineer & founder of [State Method](https://statemethod.com/).
+AI Agent Engineer & founder of [State Method](https://statemethod.com/)
+and building [Space](https://getspace.sh/).
 
 I help construction teams assess and build AI-assisted workflows
 for technical documents, floorplans, and reporting.
@@ -8,6 +9,7 @@ for technical documents, floorplans, and reporting.
 My work combines AI agents, document understanding, and computer
 vision with the APIs, interfaces, and human review needed to use
 them in practice.
+
 
 **Have a workflow in mind?**
 [Describe your workflow](https://statemethod.com/?utm_source=github&utm_medium=profile&utm_campaign=readme#assessment)
@@ -46,6 +48,16 @@ and there is no obligation to continue to a pilot.
 Share the process today, the inputs involved, and who reviews
 the output. Please do not send confidential documents or credentials.
 
+## Building Space
+
+[Space](https://getspace.sh/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+is a persistent memory workspace for AI tools and agents.
+
+It brings documents, tasks, project context, and saved memory
+together so work can continue across conversations, with access
+you control.
+
+
 ## Technical stack
 
 Python · FastAPI · Computer Vision · OCR · VLMs · RAG
@@ -54,3 +66,7 @@ PostgreSQL · TypeScript · React · Next.js · AWS · Docker
 [Portfolio](https://hugosequier.com/) ·
 [LinkedIn](https://www.linkedin.com/in/hugo-sequier/) ·
 [Writing](https://medium.com/@sequierh)
+
+
+
+
