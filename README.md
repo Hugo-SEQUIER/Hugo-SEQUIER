@@ -1,29 +1,56 @@
-## Hugo Sequier
+# Hugo Sequier
 
-Freelance Data Scientist & AI Engineer specialized in **Construction Computer Vision**.
+AI Agent Engineer & founder of [State Method](https://statemethod.com/).
 
-I build AI systems for floorplans, technical documents, and operational workflows: Computer Vision pipelines, AI agents, RAG systems, production APIs, and internal tools.
+I help construction teams assess and build AI-assisted workflows
+for technical documents, floorplans, and reporting.
 
-### Latest projects
+My work combines AI agents, document understanding, and computer
+vision with the APIs, interfaces, and human review needed to use
+them in practice.
 
-- **AnalyzTech** — AI workspace for floorplan and construction-document verification.
-- **Brickroad** — Dataset marketplace dApp with backend ownership across segmentation, storage, visualization, and payments.
-- **Floorplan Computer Vision** — R&D pipeline for floorplan polygon detection, dataset workflows, training, and inference.
-- **Video to Report** — AI pipeline turning construction-site videos into draft compliance reports.
+**Have a workflow in mind?**
+[Describe your workflow](https://statemethod.com/?utm_source=github&utm_medium=profile&utm_campaign=readme#assessment)
 
-### Core Stack
+## Selected engineering work
 
-**AI / Data:** Python, Computer Vision, YOLO, Detectron2, Mask R-CNN, VLMs, RAG, OCR, Shapely  
-**Backend / Product:** FastAPI, PostgreSQL, TypeScript, React, Next.js  
-**Cloud / MLOps:** AWS Lambda, SageMaker, ECS, ECR, ELB/ALB, Docker  
-**Domains:** Construction workflows, floorplans, compliance automation, AI agents, decentralized data
+These are client projects I contributed to before launching State Method.
 
-### Links
+- [AnalyzTech](https://statemethod.com/work/analyztech):
+  Document and floorplan analysis connected to verification
+  actions and a review interface.
+- [Floorplan Automation Pipeline](https://statemethod.com/work/floorplan-automation):
+  PDF processing, polygon extraction, deterministic checks,
+  and reporting.
+- [Video to Report](https://statemethod.com/work/video-to-report):
+  Construction-site video processing that prepares structured
+  report drafts for human review.
 
-- <a href="https://www.esilv.fr/">ESILV</a> — Data & AI Engineer, Class of 2025
-- <a href="https://medium.com/@sequierh">Medium</a> — articles on AI agents, Claude Code, and practical building
-- <a href="https://trophe.net/article/A_Decentralized_Framework_for_Multi-Agent_Systems_Using_Datachain_Technology.pdf">A Decentralized Framework for Multi-Agent Systems Using Datachain Technology</a>
+[More case studies](https://hugosequier.com/#projects)
 
-<!--
-**Hugo-SEQUIER/Hugo-SEQUIER** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+## Working together
+
+Through State Method, I start with a fixed-scope diagnostic
+for one construction workflow.
+
+In 10 business days, you receive a workflow map, evaluation
+summary, permission matrix, failure register, and a recommendation
+to build, change, or stop.
+
+**€4,000 excluding VAT.**
+The diagnostic does not include production implementation,
+and there is no obligation to continue to a pilot.
+
+[Assess your workflow](https://statemethod.com/?utm_source=github&utm_medium=profile&utm_campaign=readme#assessment)
+
+Share the process today, the inputs involved, and who reviews
+the output. Please do not send confidential documents or credentials.
+
+## Technical stack
+
+Python · FastAPI · Computer Vision · OCR · VLMs · RAG
+PostgreSQL · TypeScript · React · Next.js · AWS · Docker
+
+[Portfolio](https://hugosequier.com/) ·
+[LinkedIn](https://www.linkedin.com/in/hugo-sequier/) ·
+[Writing](https://medium.com/@sequierh)
